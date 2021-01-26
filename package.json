@@ -1,0 +1,32 @@
+{
+  "name": "homebridge-relay",
+  "version": "0.1.0",
+  "description": "more details coming soon",
+  "keywords": [
+    "homebridge-plugin",
+    "relay"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "Marc Garner"
+  },
+  "repository": {
+    "type": "git",
+    "url":"git://github.com/marcfolio/homebridge-3-way-switch-relay"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/marcfolio"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/marcfolio"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
