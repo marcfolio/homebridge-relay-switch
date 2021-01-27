@@ -27,5 +27,6 @@
         "required": true
       }
     }
-  }
+  },
+  "display": null
 }
