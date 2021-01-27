@@ -43,7 +43,7 @@ class ExampleSwitchAccessory {
    * Handle requests to set the "On" characteristic
    */
   handleOnSet(value, callback) {
-    this.log.debug('Triggered SET On:' value);
+    this.log.debug('Triggered SET On:' + value);
 
     callback(null);
   }
