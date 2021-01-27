@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "Raspi Relay",
+  "pluginAlias": "RaspiRelay",
   "pluginType": "accessory",
   "singular": false,
   "schema": {

@@ -1,7 +1,7 @@
 // Example Switch Plugin
 
 module.exports = (api) => {
-  api.registerAccessory('ExampleSwitchPlugin', ExampleSwitchAccessory);
+  api.registerAccessory('RaspiRelay', ExampleSwitchAccessory);
 };
 
 class ExampleSwitchAccessory {
